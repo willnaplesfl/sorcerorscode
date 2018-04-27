@@ -1,0 +1,3 @@
+Harry Programmer and the Sorcerers Code: Scene 1
+echo "Harry Programmer and the Sorceror's Code: Scene 1" scene-1.txt
+
